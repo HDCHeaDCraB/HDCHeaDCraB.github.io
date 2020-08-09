@@ -1,0 +1,46 @@
+@font-face {
+        font-family: "Oswald";
+        src: url("fonts/Oswald/static/Oswald-Regular.ttf");
+        font-weight: 500;
+}
+@font-face {
+        font-family: "Oswald-light";
+        src: url("fonts/Oswald/static/Oswald-Light.ttf");
+        font-weight: 200;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sriracha&display=swap');
+
+html{
+        text-transform: uppercase;
+        background-image: url(https://image.freepik.com/free-vector/gradient-geometric-shape-background_78532-374.jpg);
+}
+h1 {color:red;
+font-family: 'Sriracha', cursive;
+font-size: 50px;
+text-align: center;
+}
+        .Content {color:orangered; font-size: 15px;
+                font-family: 'Roboto', sans-serif;
+text-align: justify;
+text-transform: capitalize;
+line-height: 20px;
+font-weight: bolder;}
+        img {width:200px;height: 200px;margin: 20px;}
+        footer{text-align: center;}
+        h3 {font-family: 'Sriracha', cursive;
+                text-transform: capitalize;
+                color: rgb(168, 22, 22);
+                font-size: 36px;
+        }
+        .title {text-transform: uppercase;
+        font-style: italic;
+color: red;}
+.hero {color: gold;text-transform: capitalize;font-weight: 700;font-family: 'Roboto', sans-serif;}
+.boss {color: darkred;
+text-transform: capitalize;font-weight: 700;font-family: 'Roboto', sans-serif;}
+.herotext {text-transform: capitalize;font-weight: 700;}
+.bosstext {text-transform: capitalize;font-weight: 700;}
+h4 {font-size: 24px;
+        font-family: 'Sriracha', cursive}
+a{text-align: left; font-size: 24; color: red;line-height: 50px;font-weight: bolder; }
+
